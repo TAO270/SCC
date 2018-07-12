@@ -5,7 +5,6 @@ A simple case in the paper is implemented with C++.<br>
 You need to install eigen3 library for using because the data is calculated and stored in a matrix form.<br>
 * Eigen3(version 3.3.4):[Installation tutorial](http://eigen.tuxfamily.org/index.php?title=Main_Page)<br>
 * libigl: a header-only library[homepage](https://github.com/libigl/libigl).<br>
-<br>
 In order to use the example, you need to add an OpenCV dependency.<br>
 * OpenCV(version 2.4)<br>
 * CMake(version 3.5)<br>
