@@ -9,8 +9,8 @@ In order to use the example, you need to add an OpenCV dependency.<br>
 * OpenCV(version 2.4)<br>
 * cmake(version 3.5)<br>
 ## Compile
-    cd SCC<br>
-    cd build<br>
-    cmake ..<br>
-    make<br>
+    cd SCC
+    cd build
+    cmake ..
+    make
 You can find the Kmeans algorithm used in the code [here](https://github.com/michaelchughes/KMeansRex).
