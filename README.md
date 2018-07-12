@@ -3,7 +3,7 @@ A sparse subspace clustering method, and more details can be found here [paper](
 A simple case in the paper is implemented with C++.<br>
 ## Dependency
 You need to install eigen3 library for using because the data is calculated and stored in a matrix form.<br>
-* Eigen3(version 3.3.4): [Installation tutorial](http://eigen.tuxfamily.org/index.php?title=Main_Page)<br>
+* Eigen3(Version 3.3.4): [Installation tutorial](http://eigen.tuxfamily.org/index.php?title=Main_Page)<br>
 * libigl: a header-only library [homepage](https://github.com/libigl/libigl).<br>
 ### In order to use the example, you need to add an OpenCV dependency.<br>
 * OpenCV(Version 2.4)<br>
