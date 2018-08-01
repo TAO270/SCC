@@ -1,6 +1,6 @@
 # SCC(Sparse subspace clustering)
+A re-implementation of MATLAB code with c++.<br>
 A sparse subspace clustering method, and more details can be found here [paper](https://ieeexplore.ieee.org/abstract/document/6482137/) [MATLAB code](http://www.vision.jhu.edu/code/).<br>
-A simple case in the paper is implemented with C++.<br>
 ## Dependency
 You need to install eigen3 library for using because the data is calculated and stored in a matrix form.<br>
 * Eigen3(Version 3.3.4): [Installation tutorial](http://eigen.tuxfamily.org/index.php?title=Main_Page)<br>
