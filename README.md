@@ -14,3 +14,9 @@ You need to install eigen3 library for using because the data is calculated and 
     cmake ..
     make
 You can find the Kmeans algorithm used in the code [here](https://github.com/michaelchughes/KMeansRex).
+
+---
+### There is a simple example classifying different features of images based on their trajectories over time  in images.<br>
+The result shows that features of pedestrian's area of this image show different motion trajectories, which results in these feature points being classified into the same cluster.<br>
+<br>
+![](https://github.com/Markbess/SCC/blob/master/data/result.png)
