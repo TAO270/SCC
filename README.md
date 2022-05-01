@@ -1,4 +1,4 @@
-# SCC(Sparse subspace clustering)
+# SSC(Sparse Subspace Clustering)
 A re-implementation of MATLAB code with c++.<br>
 A sparse subspace clustering method, and more details can be found here [paper](https://ieeexplore.ieee.org/abstract/document/6482137/) [MATLAB code](http://www.vision.jhu.edu/code/).<br>
 ## Dependency
